@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<!--SceneryObject name: House-->
+	<SceneryObject lat="50.65573483682218" lon="-1.17822233256459" alt="0.00000000000000" pitch="0.000622" bank="-0.000622" heading="-150.285882" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{3D51F7CB-20F5-4E45-F085-F364AA0FB4E0}" scale="1.190000"/>
+	</SceneryObject>
+</FSData>
+

@@ -1,0 +1,19 @@
+{
+  "content": [
+    {
+      "path": "manifest.json",
+      "size": 271,
+      "date": 132433576678970126
+    },
+    {
+      "path": "scenery/global/scenery/HouseScene.bgl",
+      "size": 156,
+      "date": 132433578493204366
+    },
+    {
+      "path": "scenery/global/scenery/models.BGL",
+      "size": 4708,
+      "date": 132433576678879593
+    }
+  ]
+}

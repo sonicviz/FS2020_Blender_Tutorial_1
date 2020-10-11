@@ -1,0 +1,39 @@
+<AssetPackage Name="qubecad-model" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title/>
+		<Manufacturer/>
+		<Creator/>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\qubecad-model\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\qubecad-model</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="model">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSource\models</AssetDir>
+			<OutputDir>scenery/global/scenery\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="scene">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSource\scene</AssetDir>
+			<OutputDir>scenery/global/scenery\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+
